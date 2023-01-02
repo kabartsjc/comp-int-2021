@@ -28,9 +28,9 @@ Students will understand the different techniques for solving combinatorial opti
 ### 😎 Learning Outcomes <a name = ""></a>
 
 Throughout the course, students will:
-•	Build expertise in the most widely used AI & ML tools and technologies.
-•	Master the skills needed to build machine learning and deep learning models.
-•	The student will learn to use machine learning and/or artificial intelligence tools to identify cybersecurity in interference attacks, intrusions, poisoning of datasets, and manipulating or corrupting secured models.
+-	Build expertise in the most widely used AI & ML tools and technologies.
+-	Master the skills needed to build machine learning and deep learning models.
+-	The student will learn to use machine learning and/or artificial intelligence tools to identify cybersecurity in interference attacks, intrusions, poisoning of datasets, and manipulating or corrupting secured models.
 
 ## ✍️ Professor <a name = "authors"></a>
 <table>
